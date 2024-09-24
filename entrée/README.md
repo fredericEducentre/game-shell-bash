@@ -5,4 +5,4 @@ rm bug
 
 Une fois que tu auras supprimé le bug tu pourras activé le levier avec la commande suivante :
 
-./levier.sh
+bash levier.sh
